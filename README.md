@@ -145,5 +145,5 @@ The notebook follows this pipeline:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/plant-growth-simulator.git
+git clone https://github.com/TLIBA-Ahmed/plant-growth-simulator.git
 cd plant-growth-simulator
